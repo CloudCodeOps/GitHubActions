@@ -22,5 +22,4 @@ jobs:
       - name: Check AWS CLI
         run: aws --version
 
-      - name: Check Docker
-        run: docker --version
+    
